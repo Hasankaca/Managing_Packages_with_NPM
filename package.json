@@ -1,0 +1,24 @@
+{
+  "name": "npminit",
+  "version": "1.0.0",
+  "description": "Desc Text1 Text2 Text3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Key1",
+    "Key2",
+    "Key3"
+  ],
+  "author": "Hasan Kaca",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "lodash": "^4.17.20",
+    "nodemailer": "^6.4.17"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
